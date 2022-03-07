@@ -5,8 +5,10 @@ Taelor McClurg
 
 Sinchan Sharma:
 
-- Visualize crashes in different boroughs across seasons for all of 2021.
-- Maybe visualize crashes based on different vehicle sizes (not sure yet)
+- Visualize crashes in general across seasons for all of 2021.
+- Visualize distribution of crashes across boroughs for each season.
+- Added simple visualization of number of vehicles involved in each crash.
+
 ```python
 
 ```
